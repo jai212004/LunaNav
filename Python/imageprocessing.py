@@ -12,3 +12,4 @@ def grayscale(imgpath):
 grayscale("Figures/3D.png")
 grayscale("Figures/2D.png")
 
+hello , check
